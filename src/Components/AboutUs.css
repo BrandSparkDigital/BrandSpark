@@ -1,0 +1,126 @@
+/* General Content Styling */
+.content {
+  background-color: #f9f9f9;
+  padding: 50px;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+}
+
+/* About Us Section Styling */
+.about {
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  width: 100%; /* Make it responsive */
+  margin: 0 auto; /* Center the box */
+}
+
+.ahead {
+  font-size: 36px;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.hhead {
+  font-size: 24px;
+  color: #555555;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.details {
+  font-size: 16px;
+  color: #777777;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.values-list {
+  list-style-type: none;
+  padding-left: 0;
+  font-size: 16px;
+  color: #777777;
+}
+
+.values-list li {
+  margin-bottom: 10px;
+  padding-left: 20px;
+  position: relative;
+}
+
+.values-list li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #ff6f61;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.values-list strong {
+  color: #333333;
+  font-weight: bold;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .content {
+    background-color: #f9f9f9;
+    padding: 0px;
+    margin-left: 2px;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+  }
+  .about {
+    width: 100%;
+  }
+
+  .ahead {
+    font-size: 28px;
+  }
+
+  .hhead {
+    font-size: 20px;
+  }
+
+  .details,
+  .values-list {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .content {
+    background-color: #f9f9f9;
+    padding: 0px;
+    margin-left: 2px;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+  }
+  .about {
+    width: 100%;
+  }
+  .about {
+    padding: 15px;
+  }
+
+  .ahead {
+    font-size: 24px;
+  }
+
+  .hhead {
+    font-size: 18px;
+  }
+
+  .details,
+  .values-list {
+    font-size: 12px;
+  }
+}
