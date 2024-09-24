@@ -1,0 +1,4 @@
+src/images/img1.png filter=lfs diff=lfs merge=lfs -text
+src/images/img3.png filter=lfs diff=lfs merge=lfs -text
+src/images/img4.png filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
