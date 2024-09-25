@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BrandSpark/static/css/main.526ada04.css",
-    "main.js": "/BrandSpark/static/js/main.3975a979.js",
+    "main.css": "/BrandSpark/static/css/main.be2881b1.css",
+    "main.js": "/BrandSpark/static/js/main.ef9b9fa8.js",
     "static/js/453.cb012463.chunk.js": "/BrandSpark/static/js/453.cb012463.chunk.js",
     "static/media/img4.png": "/BrandSpark/static/media/img4.49a472c603d1ac280f59.png",
     "static/media/img3.png": "/BrandSpark/static/media/img3.863f304c27721b676919.png",
@@ -18,12 +18,12 @@
     "static/media/logo.png": "/BrandSpark/static/media/logo.94c925c9fab098aea1e2.png",
     "static/media/BRANDSPARK.png": "/BrandSpark/static/media/BRANDSPARK.4628dbab7dbfa4713d14.png",
     "index.html": "/BrandSpark/index.html",
-    "main.526ada04.css.map": "/BrandSpark/static/css/main.526ada04.css.map",
-    "main.3975a979.js.map": "/BrandSpark/static/js/main.3975a979.js.map",
+    "main.be2881b1.css.map": "/BrandSpark/static/css/main.be2881b1.css.map",
+    "main.ef9b9fa8.js.map": "/BrandSpark/static/js/main.ef9b9fa8.js.map",
     "453.cb012463.chunk.js.map": "/BrandSpark/static/js/453.cb012463.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.526ada04.css",
-    "static/js/main.3975a979.js"
+    "static/css/main.be2881b1.css",
+    "static/js/main.ef9b9fa8.js"
   ]
 }
