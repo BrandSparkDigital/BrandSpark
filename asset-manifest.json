@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BrandSpark/static/css/main.526ada04.css",
+    "main.js": "/BrandSpark/static/js/main.0f8ba4df.js",
+    "static/js/453.cb012463.chunk.js": "/BrandSpark/static/js/453.cb012463.chunk.js",
+    "static/media/img4.png": "/BrandSpark/static/media/img4.49a472c603d1ac280f59.png",
+    "static/media/img3.png": "/BrandSpark/static/media/img3.863f304c27721b676919.png",
+    "static/media/img1.png": "/BrandSpark/static/media/img1.f9ecd300cf4390367caa.png",
+    "static/media/img2.png": "/BrandSpark/static/media/img2.716ee5c247da6e40bfe2.png",
+    "static/media/ctc.png": "/BrandSpark/static/media/ctc.08ae75606063ccc4fb67.png",
+    "static/media/id4.png": "/BrandSpark/static/media/id4.84e4b3af3862a71734ea.png",
+    "static/media/id2.png": "/BrandSpark/static/media/id2.b833599e71b24ac1580b.png",
+    "static/media/id3.png": "/BrandSpark/static/media/id3.535707f4f6d43382136b.png",
+    "static/media/id1.png": "/BrandSpark/static/media/id1.5dc961d211df90eca696.png",
+    "static/media/Picture2.jpg": "/BrandSpark/static/media/Picture2.e71219e6185868c65ab4.jpg",
+    "static/media/Picture1.jpg": "/BrandSpark/static/media/Picture1.911f01bea71701651820.jpg",
+    "static/media/id5.png": "/BrandSpark/static/media/id5.bf1cc7f9d2f5100a9b0b.png",
+    "static/media/logo.png": "/BrandSpark/static/media/logo.94c925c9fab098aea1e2.png",
+    "static/media/BRANDSPARK.png": "/BrandSpark/static/media/BRANDSPARK.4628dbab7dbfa4713d14.png",
+    "index.html": "/BrandSpark/index.html",
+    "main.526ada04.css.map": "/BrandSpark/static/css/main.526ada04.css.map",
+    "main.0f8ba4df.js.map": "/BrandSpark/static/js/main.0f8ba4df.js.map",
+    "453.cb012463.chunk.js.map": "/BrandSpark/static/js/453.cb012463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526ada04.css",
+    "static/js/main.0f8ba4df.js"
+  ]
+}
