@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BrandSpark/static/css/main.f6e12132.css",
+    "main.css": "/BrandSpark/static/css/main.9205a151.css",
     "main.js": "/BrandSpark/static/js/main.719d5ea8.js",
     "static/js/453.cb012463.chunk.js": "/BrandSpark/static/js/453.cb012463.chunk.js",
     "static/media/img2.png": "/BrandSpark/static/media/img2.aac9895497bc826ea1ef.png",
@@ -18,12 +18,12 @@
     "static/media/id5.png": "/BrandSpark/static/media/id5.c64ea88b738d260759b9.png",
     "static/media/BRANDSPARK.png": "/BrandSpark/static/media/BRANDSPARK.848ad01019f45b2801c5.png",
     "index.html": "/BrandSpark/index.html",
-    "main.f6e12132.css.map": "/BrandSpark/static/css/main.f6e12132.css.map",
+    "main.9205a151.css.map": "/BrandSpark/static/css/main.9205a151.css.map",
     "main.719d5ea8.js.map": "/BrandSpark/static/js/main.719d5ea8.js.map",
     "453.cb012463.chunk.js.map": "/BrandSpark/static/js/453.cb012463.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6e12132.css",
+    "static/css/main.9205a151.css",
     "static/js/main.719d5ea8.js"
   ]
 }
